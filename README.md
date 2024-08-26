@@ -20,4 +20,4 @@ The `<-` only works with right hand types of `array`, `openArray`, or `sequence`
 
 Attempting to destructure an empty collection will raise an `IndexDefect` exception.
 
-Returned values are mutable. Open to suggestions on a second operator for an immutable return.
+Returned values are immutable.
